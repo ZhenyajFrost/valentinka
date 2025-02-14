@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/valentine/static/css/main.71ddcde1.css",
+    "main.js": "/valentine/static/js/main.40baceb7.js",
+    "static/media/4.jpg": "/valentine/static/media/4.9fdc59af9efbc88d4030.jpg",
+    "static/media/2.jpg": "/valentine/static/media/2.6c3c47647f2bcd469ea8.jpg",
+    "static/media/5.jpg": "/valentine/static/media/5.33ae273ebba04e890295.jpg",
+    "static/media/3.jpg": "/valentine/static/media/3.09532532bd33af4d00ed.jpg",
+    "static/media/7.jpg": "/valentine/static/media/7.d15000e0feaf27ad69bd.jpg",
+    "static/media/9.jpg": "/valentine/static/media/9.bc2a7df74b7178a5a640.jpg",
+    "static/media/1.jpg": "/valentine/static/media/1.69a86574241883e52990.jpg",
+    "static/media/6.jpg": "/valentine/static/media/6.5fe3fcc40a575469f526.jpg",
+    "static/media/8.jpg": "/valentine/static/media/8.97bd80f4e2723537e66b.jpg",
+    "static/media/Valentine.woff": "/valentine/static/media/Valentine.68dc77938d7a2a27a349.woff",
+    "index.html": "/valentine/index.html",
+    "main.71ddcde1.css.map": "/valentine/static/css/main.71ddcde1.css.map",
+    "main.40baceb7.js.map": "/valentine/static/js/main.40baceb7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71ddcde1.css",
+    "static/js/main.40baceb7.js"
+  ]
+}

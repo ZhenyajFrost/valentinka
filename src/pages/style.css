@@ -1,0 +1,72 @@
+body {
+    padding-top: 5px;
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 1.5em;
+    text-align: center;
+    background-color: rgb(255, 152, 169);
+  }
+  
+  .cont {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+  }
+  
+  .imgCont {
+    display: grid;
+    grid-template-columns: repeat(3, 33.33%);
+    grid-template-rows: repeat(3, 33.33%);
+    width: 100%;
+    height: 100%;
+    position: absolute;
+  }
+  
+  .img {
+    width: 30%;
+    object-fit: cover;
+    cursor: grab;
+    position: absolute;
+  }
+  
+  .img:active {
+    cursor: grabbing;
+  }
+  
+  .button-57 {
+    position: absolute;
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1; /* Кнопка вище за випадкове зображення */
+    background-color: rgb(253, 58, 91);
+    color: #ffffff;
+    border: 1px solid #18181a;
+    border-radius: 40px;
+    margin: 5px;
+    min-width: 200px;
+    width: fit-content;
+    padding: 18px;
+    font-family: Valentine, sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+    text-align: center;
+    text-decoration: none;
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    overflow: hidden;
+  }
+  
+  .random-img {
+    position: absolute;
+    bottom: 60px;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 1; /* Випадкове зображення під кнопкою */
+    width: 30%;
+    object-fit: cover;
+  }
+  

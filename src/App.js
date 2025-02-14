@@ -5,7 +5,7 @@ import Enverlope from './pages/Enverlope';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/valentinka">
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/enverlope" element={<Enverlope />} />

@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/valentinka/static/css/main.b9ada83e.css",
-    "main.js": "/valentinka/static/js/main.3bdb033b.js",
+    "main.js": "/valentinka/static/js/main.e2814189.js",
     "static/media/4.jpg": "/valentinka/static/media/4.9fdc59af9efbc88d4030.jpg",
     "static/media/2.jpg": "/valentinka/static/media/2.6c3c47647f2bcd469ea8.jpg",
     "static/media/5.jpg": "/valentinka/static/media/5.33ae273ebba04e890295.jpg",
@@ -14,10 +14,10 @@
     "static/media/Valentine.woff": "/valentinka/static/media/Valentine.68dc77938d7a2a27a349.woff",
     "index.html": "/valentinka/index.html",
     "main.b9ada83e.css.map": "/valentinka/static/css/main.b9ada83e.css.map",
-    "main.3bdb033b.js.map": "/valentinka/static/js/main.3bdb033b.js.map"
+    "main.e2814189.js.map": "/valentinka/static/js/main.e2814189.js.map"
   },
   "entrypoints": [
     "static/css/main.b9ada83e.css",
-    "static/js/main.3bdb033b.js"
+    "static/js/main.e2814189.js"
   ]
 }
